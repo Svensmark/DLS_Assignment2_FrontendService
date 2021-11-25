@@ -18,7 +18,11 @@
 }
 
 .App-link {
-  color: #09d3ac;
+  color: #1595aa;
+}
+
+body {
+  background-color: #white;
 }
 
 footer {
@@ -45,4 +49,14 @@ a:hover {
   text-decoration: none;
 }
 
+.row {
+  margin: 0 !important;
+}
 
+.login-container {
+  margin-top: 3rem;
+}
+
+.login-input-row {
+  margin-top: 1rem !important;
+}
